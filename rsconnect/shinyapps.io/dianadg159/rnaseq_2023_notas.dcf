@@ -1,0 +1,14 @@
+name: rnaseq_2023_notas
+title: rnaseq_2023_notas
+username:
+account: dianadg159
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8195781
+bundleId: 6799331
+url: https://dianadg159.shinyapps.io/rnaseq_2023_notas/
+when: 1675281498.53202
+lastSyncTime: 1675281498.53205
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: R/01-notas.R|R/02-visualizar-mtcars.R|R/03-discussBioC.Rmd|R/04-notas-recount3.R
